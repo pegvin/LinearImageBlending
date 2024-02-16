@@ -1,6 +1,7 @@
 # LinearImageBlending
 Blending Images The Real Way (Real, I was the Image)
 
+---
 ## Preview
 
 ### Input
@@ -12,6 +13,7 @@ Magenta (255, 0, 155) Backdrop + Green Gradient (Transparency Falloff To Right).
 ### Output - Linear RGB Blending
 ![output linear](https://github.com/pegvin/LinearImageBlending/assets/75035219/7753c9e9-868a-4411-b918-aff8f73998d2)
 
+---
 ## Resources
 - [How software gets color wrong - Article](https://bottosson.github.io/posts/colorwrong/) (suggested by a friend, was really helpful and he helped me alot through this project)
 - [What every coder should know about gamma - Article](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) (Didn't Read it yet, but looks interesting)
@@ -20,3 +22,4 @@ Magenta (255, 0, 155) Backdrop + Green Gradient (Transparency Falloff To Right).
 - [Color Spaces: Explained from the Ground Up - YouTube](https://youtu.be/99v96TL-tuY)
 
 # Thanks
+
