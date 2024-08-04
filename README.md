@@ -8,11 +8,11 @@ Blending Images The Real Way (Real, I was the Image)
 
 | Input Backdrop | Input Front |
 |----------------|-------------|
-| Hardcoded Magenta (255, 0, 155) | ![green gradient](https://codeberg.org/pegvin/LinearImageBlending/raw/branch/master/green-gradient.png) |
+| Hardcoded Magenta (255, 0, 155) | ![green gradient](./green-gradient.png) |
 
 | sRGB Blending | Linear RGB Blending |
 |---------------|---------------------|
-| ![output normal](https://github.com/pegvin/LinearImageBlending/assets/75035219/522f5c41-88e6-44dd-bb91-4cbe6a0ed8ca) | ![output linear](https://github.com/pegvin/LinearImageBlending/assets/75035219/7753c9e9-868a-4411-b918-aff8f73998d2) |
+| ![output normal](https://github.com/user-attachments/assets/6eec7a60-615e-4adf-ae85-151b046c9330) | ![output linear](https://github.com/user-attachments/assets/40a801c6-0b51-4fde-b3f5-365eb8929d11) |
 
 ---
 ## Resources
