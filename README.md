@@ -12,7 +12,7 @@ Blending Images The Real Way (Real, I was the Image)
 
 | sRGB Blending | Linear RGB Blending |
 |---------------|---------------------|
-| ![output normal](https://github.com/user-attachments/assets/6eec7a60-615e-4adf-ae85-151b046c9330) | ![output linear](https://github.com/user-attachments/assets/40a801c6-0b51-4fde-b3f5-365eb8929d11) |
+| ![output normal](./output.normal.png) | ![output linear](./output.linear.png) |
 
 ---
 ## Resources
